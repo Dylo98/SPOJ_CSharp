@@ -17,8 +17,13 @@ namespace SPOJ
             #endregion
 
             #region CPTTRN2 Character Patterns (Act 2)
-            CharacterPatternsActII b = new CharacterPatternsActII();
-            b.CPTTRN2();
+            //CharacterPatternsActII b = new CharacterPatternsActII();
+            //b.CPTTRN2();
+            #endregion
+
+            #region CPTTRN3 Character Patterns (Act 3)
+            CharacterPatternsActIII a = new CharacterPatternsActIII();
+            a.CPTTRN3();
             #endregion
         }
     }

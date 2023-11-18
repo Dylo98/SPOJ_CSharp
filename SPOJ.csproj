@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Basics\CharacterPatternsActI.cs" />
     <Compile Include="Basics\CharacterPatternsActII.cs" />
+    <Compile Include="Basics\CharacterPatternsActIII.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
