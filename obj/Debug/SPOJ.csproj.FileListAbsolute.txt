@@ -1,0 +1,8 @@
+C:\Projects\SPOJ\bin\Debug\SPOJ.exe.config
+C:\Projects\SPOJ\bin\Debug\SPOJ.exe
+C:\Projects\SPOJ\bin\Debug\SPOJ.pdb
+C:\Projects\SPOJ\obj\Debug\SPOJ.csproj.AssemblyReference.cache
+C:\Projects\SPOJ\obj\Debug\SPOJ.csproj.SuggestedBindingRedirects.cache
+C:\Projects\SPOJ\obj\Debug\SPOJ.csproj.CoreCompileInputs.cache
+C:\Projects\SPOJ\obj\Debug\SPOJ.exe
+C:\Projects\SPOJ\obj\Debug\SPOJ.pdb
